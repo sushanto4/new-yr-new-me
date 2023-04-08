@@ -1,0 +1,150 @@
+/* First section css Begins */
+
+.section-1 {
+
+    background-image: url(images/banner/banner2.png);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.section-1_Div-1 {
+
+    padding: 200px 100px 0px 900px;
+    line-height: 0.5;
+}
+
+.bolds {
+    color: #000;
+    font-size: 50px;
+    text-align: right;
+    font-weight: bolder;
+
+}
+
+#para_1 {
+    color: rgb(75, 72, 72);
+    line-height: 1;
+    text-align: right;
+
+}
+
+.btn {
+
+    color: white;
+    text-decoration: none;
+    margin-top: 2000px;
+    margin-left: 230px;
+    padding: 2px 3px 2px 3px;
+    background-color: purple;
+    border: 2px solid red;
+    border-radius: 3px;
+    height: 300px;
+}
+
+/* First section css Ends */
+
+/* Second section css Begins */
+
+.section_2 {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.container {
+    display: flex;
+    padding: 0%;
+}
+
+.flex1 {
+    height: 700px;
+    padding-left: 100px;
+
+}
+
+.flex2 {
+
+
+    padding-left: 50px;
+    height: 600px;
+    padding-top: 100px;
+    width: 100%;
+
+    text-align: center;
+}
+
+.hd {
+    padding-top: 100px;
+}
+
+.Mp {
+
+    color: #000;
+    font-size: 35px;
+    text-align: left;
+    font-weight: bolder;
+    line-height: 0.5px;
+
+}
+
+#para_2 {
+    color: rgb(75, 72, 72);
+    line-height: 1;
+    text-align: left;
+
+}
+
+.list {
+    padding-left: 0%;
+    text-align: left;
+    color: rgb(75, 72, 72);
+}
+
+/* Second section css ends */
+
+/* Third section css Begins */
+
+
+
+.plan {
+    text-align: center;
+}
+
+.learn {
+    display: flex;
+    padding-left: 300px;
+}
+
+.lrn {
+    padding-left: 50px;
+}
+
+.para_3 {
+    color: gray;
+    font-size: 20px;
+}
+
+/* Third section css ends */
+
+
+/* Fourth section css Begins */
+
+.section_4 {
+    border: 2px dotted blue;
+    height: 500px;
+    width: 1200px;
+    margin-bottom: 100px;
+}
+
+/* Fourth section css ends */
+
+/* Fifth section css Begins */
+
+.section_5 {
+    margin-left: 350px;
+    height: 200px;
+    width: 700px;
+    border: 1px solid red;
+    background-image: linear-gradient(red, purple);
+}
