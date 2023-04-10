@@ -109,6 +109,8 @@
 
 .plan {
     text-align: center;
+    margin-bottom: 70px;
+    font-size: 30px;
 }
 
 .learn {
@@ -142,9 +144,83 @@
 /* Fifth section css Begins */
 
 .section_5 {
-    margin-left: 350px;
-    height: 200px;
-    width: 700px;
-    border: 1px solid red;
-    background-image: linear-gradient(red, purple);
+    background-image: url(images/watch.png);
+    margin-left: 260px;
+    height: 220px;
+    width: 800px;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.watch {
+
+
+    height: 220px;
+    width: 800px;
+    background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(50, 115, 150));
+    position: absolute;
+    opacity: 0.67;
+}
+
+#watch {
+
+    padding-left: 30px;
+    position: absolute;
+    padding-top: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 0.1;
+
+
+
+}
+
+.btn2 {
+    color: #fff;
+    text-decoration: none;
+    font-size: medium;
+    padding: 10px 8px 10px 8px;
+    background-image: linear-gradient(gold, black);
+    border: 2px solid rgb(255, 60, 0);
+    border-radius: 5px;
+
+
+}
+
+
+
+
+footer {
+    height: 500px;
+    margin-top: 100px;
+    background-color: black;
+}
+
+.div1 {
+    width: 50%;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.parent {
+    color: white;
+    display: flex;
+}
+
+.btn3 {
+    margin-top: 50px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 3px 5px 3px;
+    background-color: green;
+    border: 2px solid red;
+    border-radius: 3px;
+
+}
+
+#icon {
+
+    padding-left: 20px;
 }
