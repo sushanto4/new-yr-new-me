@@ -219,7 +219,7 @@
 /* footer css begins */
 
 footer {
-    height: 500px;
+    height: 450px;
     margin-top: 100px;
     background-color: black;
 }
@@ -227,7 +227,7 @@ footer {
 .div1 {
     width: 50%;
     padding-left: 200px;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .parent {
