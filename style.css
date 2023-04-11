@@ -1,5 +1,6 @@
 /* First section css Begins */
 
+
 .section-1 {
 
     background-image: url(images/banner/banner2.png);
@@ -25,8 +26,10 @@
 
 #para_1 {
     color: rgb(75, 72, 72);
-    line-height: 1;
+
     text-align: right;
+
+    line-height: 1.5;
 
 }
 
@@ -36,8 +39,8 @@
     text-decoration: none;
     margin-top: 2000px;
     margin-left: 230px;
-    padding: 2px 3px 2px 3px;
-    background-color: purple;
+    padding: 5px 8px 5px 8px;
+    background-image: linear-gradient(red, purple);
     border: 2px solid red;
     border-radius: 3px;
     height: 300px;
@@ -49,7 +52,7 @@
 
 .section_2 {
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .container {
@@ -90,9 +93,15 @@
 
 #para_2 {
     color: rgb(75, 72, 72);
-    line-height: 1;
-    text-align: left;
+    text-align: justify;
+    line-height: 1.5;
 
+
+}
+
+.ulist {
+    margin-top: 50px;
+    line-height: 2;
 }
 
 .list {
@@ -111,6 +120,7 @@
     text-align: center;
     margin-bottom: 70px;
     font-size: 30px;
+    padding-top: 50px;
 }
 
 .learn {
@@ -120,11 +130,13 @@
 
 .lrn {
     padding-left: 50px;
+    text-align: justify;
 }
 
 .para_3 {
     color: gray;
     font-size: 20px;
+
 }
 
 /* Third section css ends */
@@ -133,10 +145,22 @@
 /* Fourth section css Begins */
 
 .section_4 {
-    border: 2px dotted blue;
-    height: 500px;
-    width: 1200px;
+    background-color: rgb(250, 234, 255);
+    height: 700px;
+    width: 100%;
     margin-bottom: 100px;
+    margin-top: 120px;
+
+}
+
+.inspire {
+    width: 300px;
+    height: 300px;
+}
+
+.learn2 {
+    display: flex;
+
 }
 
 /* Fourth section css ends */
@@ -158,9 +182,9 @@
 
     height: 220px;
     width: 800px;
-    background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(50, 115, 150));
+    background-image: linear-gradient(to right, rgb(185, 0, 0), rgb(40, 105, 130));
     position: absolute;
-    opacity: 0.67;
+    opacity: 0.7;
 }
 
 #watch {
@@ -189,8 +213,10 @@
 
 }
 
+/* Fourth section css ends */
 
 
+/* footer css begins */
 
 footer {
     height: 500px;
@@ -220,7 +246,22 @@ footer {
 
 }
 
+#para_4 {
+    color: #d4c5c5;
+    line-height: 1.5;
+
+}
+
+.txt {
+    height: 34px;
+    width: 300px;
+}
+
 #icon {
 
     padding-left: 20px;
 }
+
+/* 
+
+6*/
